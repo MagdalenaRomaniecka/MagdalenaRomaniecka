@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Magdalena! 👋
 
 **Data Analyst who merges in-depth research analysis with the modern data & web analytics ecosystem.**
 
